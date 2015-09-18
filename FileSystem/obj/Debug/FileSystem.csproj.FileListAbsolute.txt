@@ -1,0 +1,6 @@
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\Baptiste\Documents\Cours\Algorithme\Projet\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
